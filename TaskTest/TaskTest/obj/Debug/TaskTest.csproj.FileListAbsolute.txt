@@ -1,0 +1,6 @@
+C:\Users\Валерий Ермашкевич\source\repos\TaskTest\TaskTest\bin\Debug\TaskTest.dll
+C:\Users\Валерий Ермашкевич\source\repos\TaskTest\TaskTest\bin\Debug\TaskTest.pdb
+C:\Users\Валерий Ермашкевич\source\repos\TaskTest\TaskTest\obj\Debug\TaskTest.csproj.AssemblyReference.cache
+C:\Users\Валерий Ермашкевич\source\repos\TaskTest\TaskTest\obj\Debug\TaskTest.csproj.CoreCompileInputs.cache
+C:\Users\Валерий Ермашкевич\source\repos\TaskTest\TaskTest\obj\Debug\TaskTest.dll
+C:\Users\Валерий Ермашкевич\source\repos\TaskTest\TaskTest\obj\Debug\TaskTest.pdb
